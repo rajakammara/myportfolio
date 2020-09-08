@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Raja Kammara",
+    "occupation": "Freelancer",
+    "description": "Full Stack Developer",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Raja, I'm a Full Stack ReactJS Developer. Currently I'm working as Freelancer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "kraja200709@gmail.com",
+    "phone": "+91 9000510654",
+    "address": {
+      "street": "Anantapur",
+      "city": "Anantapur",
+      "state": "AP",
+      "zip": "515001"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/RajaKammara",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/RajaKammara/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/RajaKammara/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/RajaKammara",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Key skills",
+    "education": [
+      {
+        "school": "Sri Krishnadevaraya University",
+        "degree": "Masters in Computer Applications",
+        "graduated": "March 2010",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Developer",
+        "years": "April 2015 - Present",
+        "description": "Building various Mobile and Web applications "
+      },
+      {
+        "company": "College",
+        "title": "Lecturer",
+        "years": "June 2011 - March 2015",
+        "description": "Teaching Java, Sql to thousands of students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Android",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Urban Development Website",
+        "category": "Website",
+        "image": "ahuda.png",
+        "url": "http://ahuda.org/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Raja Kammara is very easy to work with. Straightforward communications and the Raja Kammara perfectly understood our needs and expectations",
+        "user": "Rahul"
+      },
+      {
+        "text": "Raja Kammara integrated within our in-house team perfectly and showed a real passion for being a team player – consistently updating the team of their work and progress. This resulted in a fantastic work environment that harbored positivity and great results. I would not hesitate to recommend Raja Kammara to any potential clients looking to work with him!",
+        "user": "Venkat"
+      }
+    ]
+  }
+}
